@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: stremio-multi-arabic-subs
+    env: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
