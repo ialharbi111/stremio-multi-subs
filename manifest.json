@@ -1,0 +1,11 @@
+{
+  "id": "community.multisourcesubs.arabic",
+  "version": "1.0.0",
+  "name": "Multi-Source Arabic Subtitles",
+  "description": "تجمع الترجمات العربية من SubSource و OpenSubtitles و Subdl في مكان واحد",
+  "logo": "https://i.imgur.com/8W28XoM.png",
+  "resources": ["subtitles"],
+  "types": ["movie", "series"],
+  "idPrefixes": ["tt"],
+  "catalogs": []
+}
